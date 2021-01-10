@@ -1,0 +1,61 @@
+.main_div{
+  
+    text-align: center;
+  
+}
+.form{
+
+    margin-top: 3%;
+    display: inline-block;
+    border: 2px solid #ffcc5c ;
+    border-radius: 2%;
+    box-shadow: 0 10px 10px -5px;
+    width: 50%;
+}
+
+.title{
+    border: none;
+    font-family: 'Hanalei Fill', cursive;
+}
+.title:focus{
+ box-shadow: none;
+}
+.note{
+     border: none;
+     resize: none;
+    font-family: 'Xanh Mono', monospace; 
+      overflow:hidden;
+
+      
+}
+.note:focus{
+        
+ box-shadow: none;
+}
+.note::placeholder { 
+
+font-family: 'Xanh Mono', monospace; 
+}
+.title::placeholder{
+   font-family: 'Hanalei Fill', cursive;
+}
+.btn_holder{
+     
+  display: flex;
+  margin: -20px 10px 10px 70%;
+}
+.add_button{
+    border-radius: 50%;
+    background-color:#96ceb4 ;
+    height: 50px;
+   
+
+  
+}
+
+.add_button:focus{
+        
+ box-shadow: none;
+    border: 2px solid  #ffcc5c  ;
+}
+

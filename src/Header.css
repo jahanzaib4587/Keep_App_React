@@ -1,0 +1,15 @@
+.logo{
+    border: 2px solid #ffcc5c;
+    border-radius: 10%;
+}
+.navBar_Brand{
+   font-family: 'Hanalei Fill', cursive;
+font-family: 'Xanh Mono', monospace;
+font-size: 27px;
+}
+.navbar{
+    background-color: #96ceb4;
+    width: 100%;
+    height: 100%;
+
+}

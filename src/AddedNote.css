@@ -1,0 +1,29 @@
+.card{
+    margin: 5px;
+  
+        border: 2px solid #96ceb4 ;
+      box-shadow: 0 10px 10px -8px;
+    height: 16rem;
+   
+}
+.delete{
+    display: block;
+    text-align:end;
+    color: #ee5a54;
+    /* margin-top: 10px;  */
+    margin: 4px
+}
+.delete:hover{
+    color:#ffcc5c ;
+    
+    
+}
+.cardText{
+height: 60%;
+margin-bottom: 15%;
+
+}
+.title{
+   height: 10%;
+ 
+}
